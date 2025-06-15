@@ -6,3 +6,5 @@
 - Login form
 - Page header
 
+### Fixed
+- Layout improvements for release
